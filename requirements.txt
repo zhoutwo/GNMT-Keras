@@ -79,7 +79,7 @@ msgpack-python==0.4.8
 multipledispatch==0.4.9
 mxnet==0.10.1
 navigator-updater==0.1.0
-nbconvert==5.3.1
+nbconvert==6.5.1
 nbformat==4.4.0
 networkx==1.11
 nltk==3.2.4
